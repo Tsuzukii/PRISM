@@ -93,3 +93,10 @@ conda activate muse
     - `mistral_autodan.json`: Used for **AutoDAN** evaluation. It contains automatically optimized jailbreak prompts designed to induce harmful responses.
 
     - `llama_multi.json`: Used for **multi-turn attack** evaluation. It simulates gradual jailbreak attempts across several dialogue turns, which is closer to realistic attack scenarios.
+## Acknowledgment
+
+Our code and data are adapted from the following repository. We sincerely thank the authors for making their work publicly available.
+
+- [DOOR-Alignment]([https://github.com/wicai24/DOOR-Alignment/])
+- [Unlearn-Smooth]([https://github.com/OPTML-Group/Unlearn-Smooth])
+- [TOFU]([https://github.com/locuslab/tofu])
