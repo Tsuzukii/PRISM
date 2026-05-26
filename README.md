@@ -2,7 +2,7 @@
 
 🛡️ We propose **PRISM**, a unified framework that enforces dual-space smoothness in representation and parameter spaces to improve robustness and balance unlearning metrics. PRISM consists of two smoothness optimization stages: (i) a representation space stage that employs a robustly trained probe to defend against jailbreak attacks, and (ii) a parameter-space stage that decouples retain-forget gradient conflicts, reduces imbalance, and smooths the parameter space to mitigate relearning attacks.
 
-📄 **Check out our paper:** [Dual-Space Smoothness for Robust and Balanced LLM Unlearning](https://https://arxiv.org/abs/2509.23362).
+📄 **Check out our paper:** [Dual-Space Smoothness for Robust and Balanced LLM Unlearning](https://arxiv.org/abs/2509.23362).
 
 ---
 
